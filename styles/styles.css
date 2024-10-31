@@ -21,7 +21,7 @@ body {
 	font-weight: 400;
 	line-height: 1.6;
 	color: #4a4a4a;
-	background-color: #ffffff;
+	background-color: #a93e3e;
 }
 
 h1,
@@ -75,7 +75,7 @@ figure {
 /* Links
 --------------------------------------------- */
 a,
-a:visited { 
+a:visited {
 	color: #000000;
 	text-decoration: none;
 }
@@ -123,7 +123,7 @@ a:focus {
 	.banner figcaption {
 		font-size: 5rem;
 	}
-	
+
 }
 
 .button-links {
